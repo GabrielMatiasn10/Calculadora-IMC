@@ -1,0 +1,55 @@
+body{
+  background-color: black;
+  
+  text-align: center;
+  
+}
+h1{
+  color: white;
+}
+.calculadora_titulo{
+
+  text-align: center;
+  font-size: 2.4rem;
+}
+.calculadora_formulario{
+ border: solid 5px rgb(15, 36, 233);
+ background-color: white;
+ border-radius: 10px;
+ padding: 1rem;
+ width: 20%;
+ margin: 2rem auto;
+}
+.calculadora_formulario{
+  text-align: center;
+}
+.calculadora_input{
+  
+  width: 60%;
+  margin: 2rem 20% ;
+ display: flex;
+  border-radius: 8px;
+  height: 2rem;
+
+}
+
+.calculadora_botao{
+  margin:   auto;
+  width: 100%;
+  padding: 3%;
+  border-radius: 8%;
+  
+}
+
+.calculadora_mensagem{
+  margin: 1rem 10%;
+  background-color: red;
+
+  border-radius: 3%;
+
+}
+
+.botao_calcular{
+  width: 60%;
+  font-size: 1.7rem;
+}
